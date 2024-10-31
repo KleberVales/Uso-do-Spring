@@ -15,6 +15,15 @@ inversão de controle
 modularidade\
 Spring boot
 
-Spring MVC e Spring JPA
+Spring MVC
+
+Spring Data e jpa
+
+Spring Security 
+
+Suporte a transação 
+
+
+
 
 
