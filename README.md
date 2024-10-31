@@ -12,16 +12,16 @@ Injeção de dependência
 
 inversão de controle
 
-modularidade\
-Spring boot
+### modularidade\
+* Spring boot
 
-Spring MVC
+* Spring MVC
 
-Spring Data e jpa
+* Spring Data e jpa
 
-Spring Security 
+* Spring Security 
 
-Suporte a transação 
+* Suporte a transação 
 
 
 
