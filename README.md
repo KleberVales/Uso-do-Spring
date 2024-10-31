@@ -8,9 +8,9 @@ Descrição do projeto
 Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho.
 
 Principais pontos:\
-Injeção de dependência
+### Injeção de dependência
 
-inversão de controle
+### Inversão de controle
 
 ### modularidade
 * Spring boot
