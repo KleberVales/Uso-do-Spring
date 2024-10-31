@@ -12,7 +12,7 @@ Injeção de dependência
 
 inversão de controle
 
-### modularidade\
+### modularidade
 * Spring boot
 
 * Spring MVC
