@@ -5,7 +5,7 @@ Projeto utilizando o Spring
 Descrição do projeto
 
 ## Spring
-Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho.
+Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho, essas dependências passam a ser injetadas por um container.
 
 Principais pontos:
 ### Injeção de dependência
