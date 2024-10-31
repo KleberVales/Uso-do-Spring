@@ -7,7 +7,7 @@ Descrição do projeto
 ## Spring
 Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho.
 
-Principais pontos:\
+Principais pontos:
 ### Injeção de dependência
 
 ### Inversão de controle
