@@ -5,11 +5,11 @@ Projeto utilizando o Spring
 Descrição do projeto
 
 ## Spring
-Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho, essas dependências passam a ser injetadas por um container.
+Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplicações de alto desempenho.
 
 Principais pontos:
 ### Injeção de dependência
-Injeção de dependência é um padrão de design utilizado para que as classes não precisem instanciar suas dependências.
+Injeção de dependência é um padrão de design utilizado para que as classes não precisem instanciar suas dependências, essas dependências passam a ser injetadas por um container.
 
 ### Inversão de controle
 
