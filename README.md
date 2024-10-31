@@ -9,6 +9,7 @@ Com a finalidade de desacoplamento, facilitar no desenvolvimento e criar aplica�
 
 Principais pontos:
 ### Injeção de dependência
+Injeção de dependência é um padrão de design utilizado para que as classes não precisem instanciar suas dependências.
 
 ### Inversão de controle
 
